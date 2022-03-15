@@ -118,7 +118,7 @@ function mousePressed() {
 }
 
 function draw() {
-    background(255);
+    background(200);
 
     for (let s of squares) {
         s.show();
